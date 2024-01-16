@@ -1,0 +1,18 @@
+﻿  functions.cpp
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(581,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(607,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(612,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(618,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(641,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(643,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(645,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(647,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(659,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(662,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(664,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(666,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(668,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(674,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\GAME DÒ MÌN MIESS\functions.cpp(685,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GAME DÒ MÌN MIESS.vcxproj -> C:\Users\GYGABYTE\Downloads\KTLT\GAME DÒ MÌN MIESS-20240111T031436Z-001\GAME DÒ MÌN MIESS\x64\Debug\GAME DÒ MÌN MIESS.exe
